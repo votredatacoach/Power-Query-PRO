@@ -1,0 +1,121 @@
+IDProduit,NomProduit,Categorie,Prix,Stock,EnPromotion,ProduitPhare,ProduitProblematique,Taille,Groupe
+34,Table Moyenne Gris Brillant,Table,240,99,True,False,False,Moyenne,Cuisine
+522,Commode 8 tiroirs Baroque Cérusé,Commode,400,78,True,False,True,8 tiroirs,Chambre
+96,Chaise Petite Bleu Bois,Chaise,88,34,True,False,False,Petite,Cuisine
+46,Table Grande Noir Brillant,Table,270,60,False,False,False,Grande,Cuisine
+239,Canapé 3 places Simili cuir Moderne,Canapé,740,69,False,True,True,3 places,Salon
+53,Table Grande Gris Mat,Table,310,84,False,False,False,Grande,Cuisine
+123,Chaise Moyenne Bleu Plastique,Chaise,100,90,False,False,False,Moyenne,Cuisine
+67,Table Très Grande Noir Satiné,Table,350,84,False,False,False,Très Grande,Cuisine
+504,Commode 6 tiroirs Baroque Naturel,Commode,420,77,False,False,False,6 tiroirs,Chambre
+102,Chaise Petite Rouge Métal,Chaise,90,49,False,False,False,Petite,Cuisine
+167,Armoire 3 portes Chêne Moderne,Armoire,400,42,False,False,False,3 portes,Chambre
+533,Table Basse Petite Design Marbre,Table Basse,160,81,False,False,True,Petite,Salon
+487,Commode 4 tiroirs Baroque Laqué,Commode,380,71,False,False,False,4 tiroirs,Chambre
+401,Bureau Gaming Ergonomique Métal,Bureau,440,22,False,False,False,Gaming,Salon
+458,Bibliothèque Murale Rustique Verre et métal,Bibliothèque,540,69,False,False,False,Murale,Salon
+139,Armoire 2 portes Bois naturel Moderne,Armoire,530,85,False,False,False,2 portes,Chambre
+326,Lit 180x200 Simple Mixte,Lit,460,82,False,False,False,180x200,Chambre
+545,Table Basse Petite Art déco Marbre,Table Basse,160,25,False,False,False,Petite,Salon
+94,Chaise Petite Gris Tissu,Chaise,72,96,True,False,False,Petite,Cuisine
+272,Canapé Angle Simili cuir Classique,Canapé,880,72,False,False,False,Angle,Salon
+264,Canapé Angle Cuir Classique,Canapé,900,77,False,False,False,Angle,Salon
+331,Lit 180x200 Avec tête de lit Bois,Lit,390,71,False,False,False,180x200,Chambre
+274,Canapé Angle Simili cuir Contemporain,Canapé,630,68,False,False,False,Angle,Salon
+369,Bureau Standard Ergonomique Métal,Bureau,270,98,False,False,False,Standard,Salon
+141,Armoire 2 portes Bois naturel Scandinave,Armoire,370,59,False,False,False,2 portes,Chambre
+196,Armoire 6 portes Noir Classique,Armoire,670,14,False,False,False,6 portes,Chambre
+431,Bibliothèque Standard Minimaliste Bois massif,Bibliothèque,312,53,True,False,False,Standard,Salon
+543,Table Basse Petite Art déco Verre,Table Basse,130,39,False,False,False,Petite,Salon
+472,Commode 3 tiroirs Baroque Naturel,Commode,280,46,False,False,False,3 tiroirs,Chambre
+207,Armoire 6 portes Chêne Moderne,Armoire,730,32,False,False,False,6 portes,Chambre
+396,Bureau Gaming En U Verre,Bureau,530,91,False,False,False,Gaming,Salon
+187,Armoire 4 portes Chêne Moderne,Armoire,650,14,False,True,True,4 portes,Chambre
+355,Bureau Standard Droit Bois,Bureau,340,27,False,False,False,Standard,Salon
+91,Chaise Petite Gris Bois,Chaise,64,22,True,False,False,Petite,Cuisine
+507,Commode 6 tiroirs Contemporain Laqué,Commode,400,17,False,False,False,6 tiroirs,Chambre
+155,Armoire 3 portes Noir Moderne,Armoire,540,66,False,True,False,3 portes,Chambre
+62,Table Très Grande Blanc Brillant,Table,176,66,True,True,True,Très Grande,Cuisine
+404,Bibliothèque Basse Moderne MDF,Bibliothèque,390,93,False,False,False,Basse,Salon
+208,Armoire 6 portes Chêne Classique,Armoire,550,27,False,True,False,6 portes,Chambre
+365,Bureau Standard En U Métal,Bureau,330,15,False,False,False,Standard,Salon
+214,Canapé 2 places Tissu Contemporain,Canapé,544,27,True,False,False,2 places,Salon
+83,Chaise Petite Blanc Plastique,Chaise,90,69,False,False,False,Petite,Cuisine
+476,Commode 3 tiroirs Contemporain Naturel,Commode,300,65,False,False,False,3 tiroirs,Chambre
+297,Lit 140x190 Avec rangement Tissu,Lit,350,64,False,False,False,140x190,Chambre
+244,Canapé 4 places Tissu Classique,Canapé,870,98,False,False,False,4 places,Salon
+262,Canapé Angle Tissu Contemporain,Canapé,870,55,False,False,False,Angle,Salon
+56,Table Grande Gris Verni,Table,230,25,False,False,False,Grande,Cuisine
+287,Lit 90x190 Baldaquin Bois,Lit,290,64,False,False,False,90x190,Chambre
+37,Table Moyenne Acajou Mat,Table,152,22,True,True,False,Moyenne,Cuisine
+77,Table Très Grande Acajou Mat,Table,370,36,False,False,False,Très Grande,Cuisine
+1,Table Petite Blanc Mat,Table,220,81,False,False,False,Petite,Cuisine
+134,Armoire 2 portes Blanc Vintage,Armoire,290,95,False,False,False,2 portes,Chambre
+156,Armoire 3 portes Noir Classique,Armoire,410,58,False,False,False,3 portes,Chambre
+343,Bureau Compact En L Bois,Bureau,250,99,False,False,False,Compact,Salon
+413,Bibliothèque Basse Industriel Métal,Bibliothèque,390,73,False,False,False,Basse,Salon
+495,Commode 4 tiroirs Vintage Laqué,Commode,400,80,False,False,False,4 tiroirs,Chambre
+206,Armoire 6 portes Gris Vintage,Armoire,632,35,True,False,False,6 portes,Chambre
+568,Table Basse Grande Industriel Bois,Table Basse,220,19,False,True,False,Grande,Salon
+461,Bibliothèque Murale Industriel Métal,Bibliothèque,490,44,False,False,False,Murale,Salon
+201,Armoire 6 portes Bois naturel Scandinave,Armoire,580,72,False,False,False,6 portes,Chambre
+410,Bibliothèque Basse Rustique Verre et métal,Bibliothèque,430,36,False,False,False,Basse,Salon
+16,Table Petite Gris Verni,Table,200,59,False,False,False,Petite,Cuisine
+180,Armoire 4 portes Bois naturel Classique,Armoire,540,21,False,False,False,4 portes,Chambre
+307,Lit 160x200 Simple Bois,Lit,540,75,False,False,False,160x200,Chambre
+477,Commode 3 tiroirs Contemporain Patiné,Commode,304,93,True,False,False,3 tiroirs,Chambre
+444,Bibliothèque Haute Industriel MDF,Bibliothèque,360,83,False,True,False,Haute,Salon
+469,Commode 3 tiroirs Scandinave Patiné,Commode,350,53,False,False,False,3 tiroirs,Chambre
+48,Table Grande Noir Verni,Table,260,61,False,False,False,Grande,Cuisine
+358,Bureau Standard Droit Composite,Bureau,260,46,False,False,False,Standard,Salon
+275,Lit 90x190 Simple Bois,Lit,232,80,True,False,False,90x190,Chambre
+9,Table Petite Bois naturel Mat,Table,210,64,False,True,False,Petite,Cuisine
+327,Lit 180x200 Avec rangement Bois,Lit,480,52,False,False,False,180x200,Chambre
+103,Chaise Petite Rouge Plastique,Chaise,64,39,True,False,False,Petite,Cuisine
+342,Bureau Compact Droit Composite,Bureau,260,69,False,True,False,Compact,Salon
+390,Bureau Gaming Droit Composite,Bureau,328,44,True,True,False,Gaming,Salon
+534,Table Basse Petite Design Métal brossé,Table Basse,120,53,False,False,False,Petite,Salon
+501,Commode 6 tiroirs Scandinave Patiné,Commode,310,24,False,False,False,6 tiroirs,Chambre
+215,Canapé 2 places Cuir Moderne,Canapé,860,17,False,False,False,2 places,Salon
+349,Bureau Compact En U Métal,Bureau,250,41,False,False,False,Compact,Salon
+453,Bibliothèque Murale Moderne Métal,Bibliothèque,460,27,False,False,False,Murale,Salon
+280,Lit 90x190 Avec rangement Métal,Lit,320,72,False,False,False,90x190,Chambre
+438,Bibliothèque Haute Moderne Verre et métal,Bibliothèque,600,69,False,False,False,Haute,Salon
+294,Lit 140x190 Simple Mixte,Lit,336,17,True,False,False,140x190,Chambre
+429,Bibliothèque Standard Industriel Métal,Bibliothèque,410,75,False,True,False,Standard,Salon
+267,Canapé Angle Velours Moderne,Canapé,910,99,False,False,False,Angle,Salon
+384,Bureau Large Ergonomique Verre,Bureau,340,40,False,False,False,Large,Salon
+52,Table Grande Bois naturel Verni,Table,290,99,False,False,False,Grande,Cuisine
+241,Canapé 3 places Simili cuir Design,Canapé,648,44,True,True,False,3 places,Salon
+6,Table Petite Noir Brillant,Table,220,42,False,True,False,Petite,Cuisine
+42,Table Grande Blanc Brillant,Table,230,98,False,False,False,Grande,Cuisine
+411,Bibliothèque Basse Industriel Bois massif,Bibliothèque,288,62,True,False,False,Basse,Salon
+371,Bureau Large Droit Bois,Bureau,250,38,False,False,False,Large,Salon
+459,Bibliothèque Murale Industriel Bois massif,Bibliothèque,710,93,False,False,False,Murale,Salon
+25,Table Moyenne Noir Mat,Table,260,44,False,False,False,Moyenne,Cuisine
+375,Bureau Large En L Bois,Bureau,272,27,True,False,False,Large,Salon
+319,Lit 160x200 Baldaquin Bois,Lit,344,35,True,True,False,160x200,Chambre
+133,Armoire 2 portes Blanc Scandinave,Armoire,440,93,False,False,False,2 portes,Chambre
+523,Commode 8 tiroirs Contemporain Laqué,Commode,392,30,True,False,True,8 tiroirs,Chambre
+175,Armoire 4 portes Noir Moderne,Armoire,500,10,False,True,False,4 portes,Chambre
+304,Lit 140x190 Baldaquin Métal,Lit,330,53,False,True,False,140x190,Chambre
+27,Table Moyenne Noir Satiné,Table,270,82,False,True,False,Moyenne,Cuisine
+253,Canapé 4 places Velours Design,Canapé,860,47,False,False,False,4 places,Salon
+92,Chaise Petite Gris Métal,Chaise,80,16,False,False,False,Petite,Cuisine
+299,Lit 140x190 Avec tête de lit Bois,Lit,400,28,False,True,False,140x190,Chambre
+537,Table Basse Petite Industriel Marbre,Table Basse,110,31,False,False,False,Petite,Salon
+193,Armoire 6 portes Blanc Scandinave,Armoire,540,65,False,False,False,6 portes,Chambre
+517,Commode 8 tiroirs Scandinave Patiné,Commode,380,51,False,False,False,8 tiroirs,Chambre
+15,Table Petite Gris Satiné,Table,180,87,False,False,False,Petite,Cuisine
+419,Bibliothèque Standard Moderne Bois massif,Bibliothèque,330,97,False,False,False,Standard,Salon
+110,Chaise Moyenne Blanc Cuir,Chaise,100,72,False,False,False,Moyenne,Cuisine
+68,Table Très Grande Noir Verni,Table,380,45,False,True,False,Très Grande,Cuisine
+26,Table Moyenne Noir Brillant,Table,270,14,False,False,False,Moyenne,Cuisine
+321,Lit 160x200 Baldaquin Tissu,Lit,510,48,False,False,False,160x200,Chambre
+518,Commode 8 tiroirs Scandinave Cérusé,Commode,480,89,False,False,False,8 tiroirs,Chambre
+387,Bureau Gaming Droit Bois,Bureau,320,48,True,False,False,Gaming,Salon
+430,Bibliothèque Standard Industriel Verre et métal,Bibliothèque,380,99,False,False,False,Standard,Salon
+346,Bureau Compact En L Composite,Bureau,260,42,False,False,False,Compact,Salon
+168,Armoire 3 portes Chêne Classique,Armoire,490,27,False,False,False,3 portes,Chambre
+63,Table Très Grande Blanc Satiné,Table,360,99,False,False,False,Très Grande,Cuisine
+166,Armoire 3 portes Gris Vintage,Armoire,370,65,False,False,False,3 portes,Chambre
